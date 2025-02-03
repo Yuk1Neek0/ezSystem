@@ -1,0 +1,8 @@
+﻿
+CREATE TABLE students (
+	stuId INT PRIMARY KEY NOT NULL,
+	lastName VARCHAR(MAX) NULL,
+	firstName VARCHAR(MAX) NULL,
+	sex VARCHAR(MAX) NULL,
+	program VARCHAR(MAX) NULL
+)
